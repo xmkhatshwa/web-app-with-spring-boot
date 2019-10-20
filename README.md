@@ -29,7 +29,7 @@ In this project, you will learn the cool things about Spring Boot.
 - Let's have some fun with Spring Boot.
 - I had fun creating this project and hope you would too.
 - Thanks for your interest in my repo
- - I hope you’re as excited as I am!  
+ - I hope you’re as excited as I am! 
 
 
 ### Useful Links
