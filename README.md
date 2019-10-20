@@ -21,7 +21,7 @@ In this project, you will learn the cool things about Spring Boot.
 - You should know Java. You should understand usage of Annotations.
 - You should understand the basics of Spring framework.
 - A basic understanding of JPA, Spring Security will be useful.
-- You are NOT expected to have any experience with Eclipse or Maven.
+- You are NOT expected to have any experience with IntelliJ or Maven.
 - We will help you install IntelliJ and get up and running with Maven.
 
 ## Let's have some fun
