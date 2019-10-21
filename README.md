@@ -29,7 +29,7 @@ In this project, you will learn the cool things about Spring Boot.
 - Let's have some fun with Spring Boot.
 - I had fun creating this project and hope you would too.
 - Thanks for your interest in my repo
- - I hope you’re as excited as I am!  
+ - I hope you’re as excited as I am! 
 
 
 ### Useful Links
@@ -37,11 +37,6 @@ In this project, you will learn the cool things about Spring Boot.
 - [Twitter](https://twitter.com/XolaMkhatshwa)
 - [Instagram](https://www.instagram.com/xola_mkhatshwa/)
 - [Linkedin](https://www.linkedin.com/in/xola-mkhatshwa-966482a0/)
-
-## Find the code within this repo branch
-- [Github](https://github.com/xmkhatshwa/web-app-with-spring-boot/tree/simple-todo-web-app-with-spring-boot)
-
-
 
 
 
